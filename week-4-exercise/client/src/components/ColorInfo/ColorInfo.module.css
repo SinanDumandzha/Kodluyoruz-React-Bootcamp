@@ -1,0 +1,11 @@
+.colorInfo {
+    position: absolute;
+    top: 32%;
+    padding: 0.5rem;
+    z-index: 99;
+    background-color: lightgray;
+    font-weight: bold;
+    border-style: solid;
+    border-radius: 0.3rem;
+    border-color: black;
+}
