@@ -1,7 +1,11 @@
-<h2>Kodluyoruz Istanbul Earlybird Front-End Talent Bootcamp </h2>
-<h3>19 December 2020 - 31 January 2021</h3>
-<h4>Lecturer: [Mehmet Seven](https://github.com/meseven)</h4>
-<h4>Sponsored by: [Earlybird VC](https://earlybird.com/), [Apsiyon](https://www.apsiyon.com/), [Obilet](Obilet.com) and [Tapu.com](https://www.tapu.com/)</h4>
+# Kodluyoruz Istanbul Earlybird Front-End Talent Bootcamp
+
+### 19 December 2020 - 31 January 2021
+
+##### Lecturer: [Mehmet Seven](https://github.com/meseven)
+
+##### Sponsored by: [Earlybird VC](https://earlybird.com/), [Apsiyon](https://www.apsiyon.com/), [Obilet](Obilet.com) and [Tapu.com](https://www.tapu.com/)
+
 <hr>
 
 <p align="center"></p>
